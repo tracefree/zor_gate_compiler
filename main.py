@@ -1,11 +1,8 @@
+import sys
 from qiskit_aer import AerSimulator
-from qiskit.circuit.library import RealAmplitudes
-from qiskit.circuit import QuantumCircuit, QuantumRegister, ClassicalRegister
-from qiskit.quantum_info import SparsePauliOp
-from qiskit.transpiler.preset_passmanagers import generate_preset_pass_manager
+from qiskit.circuit import QuantumCircuit
 from qiskit.circuit.library import OrGate
 from qiskit import transpile
-import sys
 
 DEFAULT_NUMBER_QUBITS = 4
 
