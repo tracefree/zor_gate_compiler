@@ -1,12 +1,12 @@
-Short Python script to generate figures of a certain quantum circuit with Qiskit for a university assignment. The circuit is a subroutine of Grover's algorithm, the [phase query gate of the OR function](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/grovers-algorithm#phase-query-gates).
+Short Python script to compile and generate figures of a certain quantum circuit with Qiskit for a university assignment. The circuit is a subroutine of Grover's algorithm, the [phase query gate of the OR function](https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/grovers-algorithm#phase-query-gates).
 
 ## Installation
 
 In a Unix terminal, execute:
 
 ```
-git clone bla
-cd bla
+git clone https://github.com/tracefree/zor_gate_compiler.git
+cd zor_gate_compiler
 python -m venv venv
 chmod +x ./venv/bin/activate
 ./venv/bin/activate
