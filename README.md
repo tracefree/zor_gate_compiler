@@ -23,3 +23,5 @@ Replace `[NUMBER_OF_QUBITS]` by an integer number greater than one. Defaults to 
 
 ## License
 The included generated images and the code are licensed under [CC0](https://creativecommons.org/public-domain/cc0/).
+
+![ZOr_compiled_4](https://github.com/user-attachments/assets/7f675065-337f-42d1-854b-3973e212dbf8)
